@@ -44,5 +44,5 @@ Please use the template and contribute to improvements
 
 The BIM data template has been developed with valuable assistance from:
 
-1. Univeristy of Leeds - Louis Hynes
-2. Sewell Construction - Matt Longden and Katy Robertson
+1. [Univeristy of Leeds](https://www.leeds.ac.uk/) - Louis Hynes
+2. [Sewell Construction](https://sewell-construction.co.uk/) - Matt Longden and Katy Robertson
