@@ -29,7 +29,7 @@ The template provides the fields required and not the data. The data should be p
 | M | The designer responsible for including the data template |
 | N | The project stage when the data temnplate should be added to the model |
 | O | The project stage when the data should be populated within the model |
-| P - X | Reference to the 'employer purposes' |
+| P - X | Reference to the relevant 'employer purposes' |
 
 ## Planned improvements
 
