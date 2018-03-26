@@ -2,7 +2,7 @@
 Data template for Building Information Modelling (BIM) using [buildingSMART](http://www.buildingsmart-tech.org/) IFC definitions
 
 ## Template purpose
-The template attempts to gather together a data set that will be suitable for facilities management uses for a typical commercial / health / educational / insitutional building.
+The template attempts to gather together a data set that will be suitable for facilities management use for a typical commercial / health / educational / institutional building.
 
 The template provides the fields required and not the data. The data should be populated as a construction project progresses through the design and build phases.
 
@@ -10,7 +10,7 @@ The template provides the fields required and not the data. The data should be p
 
 ## The data explained
 
-1. Uses the [UK Uniclass2015](https://toolkit.thenbs.com/articles/classification#classificationtablescodes). Uniclass codes both Pr - Products and Ss - Systmes (where applicable) should be applied to objects within a model.
+1. Uses the [UK Uniclass2015](https://toolkit.thenbs.com/articles/classification#classificationtablescodes). Uniclass codes both Pr - Products and Ss - Systems (where applicable) should be applied to objects within a model.
 2. Objects within the model should be correctly identified as the correct Ifc entity, for example all windows should be an IfcWindow entity.
 3. The identified property sets follow where possible those available within the Ifc framework
 4. Uuses the [RIBA plan of work](https://www.architecture.com/knowledge-and-resources/resources-landing-page/riba-plan-of-work) project stages 
@@ -22,10 +22,10 @@ The template provides the fields required and not the data. The data should be p
 | A - D | Reference to the applicable Uniclass codes |
 | E | Ifc object reference |
 | F | Property set required |
-| G | The name of the sttribute required within the model |
+| G | The name of the attribute required within the model |
 | H | Mapping to COBie |
 | I - J | Ifc data types |
-| L | Not used - inentionally blank |
+| L | Not used - intentionally blank |
 | M | The designer responsible for including the data template |
 | N | The project stage when the data temnplate should be added to the model |
 | O | The project stage when the data should be populated within the model |
@@ -44,5 +44,5 @@ Please use the template and contribute to improvements
 
 The BIM data template has been developed with valuable assistance from:
 
-1. [Univeristy of Leeds](https://www.leeds.ac.uk/) - Louis Hynes
+1. [University of Leeds](https://www.leeds.ac.uk/) - Louis Hynes
 2. [Sewell Construction](https://sewell-construction.co.uk/) - Matt Longden and Katy Robertson
