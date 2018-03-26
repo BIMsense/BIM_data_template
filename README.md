@@ -34,6 +34,7 @@ The template provides the fields required and not the data. The data should be p
 ## Planned improvements
 
 1. The column G identified attributes are not fully consistent and require improvement or additional explaination.
+2. Provide a custom ParameterMappingTable.txt for import of IFC (with the template data) into revit
 
 ## License
 This information is licensed under Creative Commons Attribution Share Alike 4.0
