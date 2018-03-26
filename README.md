@@ -33,7 +33,7 @@ The template provides the fields required and not the data. The data should be p
 
 ## Planned improvements
 
-1. The column G identified attributes are not fully consistent and could require improvement or additional explaination.
+1. The column G identified attributes are not fully consistent and require improvement or additional explaination.
 
 ## License
 This information is licensed under Creative Commons Attribution Share Alike 4.0
