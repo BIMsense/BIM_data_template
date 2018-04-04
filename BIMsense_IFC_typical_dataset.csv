@@ -1,4 +1,4 @@
-Uniclass Product Name,Uniclass Product Code,Uniclass System Name,Uniclass System Code,IFC Object,Property Set/Defined by,Data Parameter / IfcProperty,COBie Mapping,Template Type,Primary Measure Type,Defined Data,,Discipline,Data Template Within Model,Stage Required,Register of Assets,Support for Business Questions,Support for Compliance and Regulatory Responsibilities,Management of Capacity and Utilization,Support for Repurposing,Predicted and Actual Impacts,Operations,Maintenance and Repair,Replacement
+Uniclass Product Name,Uniclass Product Code,Uniclass System Name,Uniclass System Code,IFC Object,Property Set/Defined by,Attribute Name / IfcProperty,COBie Mapping,Template Type,Primary Measure Type,Defined Data,,Discipline,Data Template Within Model,Stage Required,Register of Assets,Support for Business Questions,Support for Compliance and Regulatory Responsibilities,Management of Capacity and Utilization,Support for Repurposing,Predicted and Actual Impacts,Operations,Maintenance and Repair,Replacement
 Eye bolts,Pr_20_29_08_27,Static permanent access and safety equipment systems,Ss_40_30_85,IfcDiscreteAccessoryType,,<IfcObject>Type.Description,COBieTypeDescription,p_singlevalue,IfcText,,,HVAC,Stage 3,Stage 3,x,x,x,x,x,x,x,x,x
 Eye bolts,Pr_20_29_08_27,Static permanent access and safety equipment systems,Ss_40_30_85,IfcDiscreteAccessoryType,,<IfcObject>Type.Name,COBieTypeName,p_singlevalue,IfcLabel,,,HVAC,Stage 3,Stage 3,x,x,x,x,x,x,x,x,x
 Eye bolts,Pr_20_29_08_27,Static permanent access and safety equipment systems,Ss_40_30_85,IfcDiscreteAccessoryType,,<IfcObject>.Description,COBieComponentDescription,p_singlevalue,IfcText,,,HVAC,Stage 3,Stage 3,x,x,x,x,x,x,x,x,x
@@ -2146,6 +2146,9 @@ Steel lighting columns,Pr_80_77_48_80,External lighting systems,Ss_70_80_25,IfcL
 ,,,,IfcBuilding,BIMsense_Building,InstitutionSubCode,,p_singlevalue,IfcLabel,,Sub Institution Code,Architectural,Stage 2,,,,,,,,,,
 ,,,,IfcBuilding,BIMsense_Building,BuildingCategory,,p_singlevalue,IfcLabel,,Building Category,Architectural,Stage 2,,,,,,,,,,
 ,,,,IfcBuilding,BIMsense_Building,ConstructionCost,,p_singlevalue,IfcMonetaryMeasure,,Construction Cost,Architectural,Stage 2,,,,,,,,,,
+,,,,IfcBuilding,BIMsense_UtilityConsumptionDesigned,Fuel,,p_singlevalue,IfcEnergyMeasure,,As designed fuel consumption,Building Services,Stage 3,Stage 3,,,,,,x,,,
+,,,,IfcBuilding,BIMsense_UtilityConsumptionDesigned,Electricity,,p_singlevalue,IfcEnergyMeasure,,As designed electricity consumption,Building Services,Stage 3,Stage 3,,,,,,x,,,
+,,,,IfcBuilding,BIMsense_UtilityConsumptionDesigned,Water,,p_singlevalue,IfcEnergyMeasure,,As designed water consumption,Building Services,Stage 3,Stage 3,,,,,,x,,,
 ,,,,IfcBuildingStorey,,Name,COBieFloorName,p_singlevalue,IfcLabel,,Floor,Architectural,Stage 2,Stage 2,,,,,,,,,
 ,,,,IfcBuildingStorey,,Description,COBieFloorDescription,p_singlevalue,IfcText,,,Architectural,Stage 2,Stage 2,,,,,,,,,
 ,,,,IfcBuildingStorey,,Elevation,COBieFloorElevation,p_singlevalue,IfcLengthMeasure ,,,Architectural,Stage 2,Stage 2,,,,,,,,,
